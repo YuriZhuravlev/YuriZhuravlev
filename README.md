@@ -6,6 +6,12 @@
 * https://t.me/Yuri_Zhuravlev
 * zhuravlevyuri2000@gmail.com
 
+---
+### Projects:
+My Android Application
+* [BoredApp](https://github.com/YuriZhuravlev/BoredApp)
+* [in AppGallery](https://appgallery.huawei.com/#/app/C103760887)
+
 <!--
 **YuriZhuravlev/YuriZhuravlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
