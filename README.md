@@ -8,9 +8,13 @@
 
 ---
 ### Projects:
-My Android Application
+My Android Application:
 * [BoredApp](https://github.com/YuriZhuravlev/BoredApp)
 * [in AppGallery](https://appgallery.huawei.com/#/app/C103760887)
+
+
+Language server:
+* [fptl-language-server](https://gitlab.com/appmat/language-tool-lab/fptl/fptl-language-server)
 
 <!--
 **YuriZhuravlev/YuriZhuravlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
