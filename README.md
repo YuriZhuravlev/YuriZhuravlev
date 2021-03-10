@@ -9,10 +9,9 @@
 
 ---
 ### Projects:
-My Android Application:
-* [BoredApp](https://github.com/YuriZhuravlev/BoredApp)
-* [in AppGallery](https://appgallery.huawei.com/#/app/C103760887)
-
+My Android Applications:
+* BoredApp, [source](https://github.com/YuriZhuravlev/BoredApp), [AppGallery page](https://appgallery.huawei.com/#/app/C103760887)
+* StockObserver, [AppGallery page](https://appgallery.huawei.com/#/app/C103965313)
 
 Language server:
 * [fptl-language-server](https://gitlab.com/appmat/language-tool-lab/fptl/fptl-language-server)
