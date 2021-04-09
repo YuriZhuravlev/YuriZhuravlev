@@ -13,6 +13,9 @@ My Android Applications:
 * BoredApp, [source](https://github.com/YuriZhuravlev/BoredApp), [AppGallery page](https://appgallery.huawei.com/#/app/C103760887)
 * StockObserver, [AppGallery page](https://appgallery.huawei.com/#/app/C103965313)
 
+Jetpack Compose for Desktop:
+* [ParserPascalJC](https://github.com/YuriZhuravlev/ParserPascalJC)
+
 Language server:
 * [fptl-language-server](https://gitlab.com/appmat/language-tool-lab/fptl/fptl-language-server)
 
