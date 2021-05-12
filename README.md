@@ -10,7 +10,7 @@
 ### Projects:
 My Android Applications:
 * BoredApp, [source](https://github.com/YuriZhuravlev/BoredApp), [AppGallery page](https://appgallery.huawei.com/#/app/C103760887)
-* StockObserver, [AppGallery page](https://appgallery.huawei.com/#/app/C103965313)
+* StockObserver, [source](https://github.com/YuriZhuravlev/StockObserverApp), [AppGallery page](https://appgallery.huawei.com/#/app/C103965313)
 
 Jetpack Compose for Desktop:
 * [ParserPascalJC](https://github.com/YuriZhuravlev/ParserPascalJC)
