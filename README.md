@@ -15,6 +15,7 @@ My Android Applications:
 
 Jetpack Compose for Desktop:
 * [ParserPascalJC](https://github.com/YuriZhuravlev/ParserPascalJC)
+* [AdminApp](https://github.com/YuriZhuravlev/desktop-admin-jetpack-compose)
 
 Language server:
 * [fptl-language-server](https://gitlab.com/appmat/language-tool-lab/fptl/fptl-language-server)
