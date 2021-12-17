@@ -16,10 +16,13 @@ My Android Applications:
 Jetpack Compose for Desktop:
 * [ParserPascalJC](https://github.com/YuriZhuravlev/ParserPascalJC)
 * [AdminApp](https://github.com/YuriZhuravlev/desktop-admin-jetpack-compose)
+* [PostGraduate](https://github.com/YuriZhuravlev/course-work-db) (Course Work on Databases)
 
 Language server:
 * [fptl-language-server](https://gitlab.com/appmat/language-tool-lab/fptl/fptl-language-server)
 
+Ktor:
+* [Hide information in PDF](https://github.com/YuriZhuravlev/PDF-encoder) (Course Work on Data Protection)
 <!--
 **YuriZhuravlev/YuriZhuravlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
