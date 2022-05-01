@@ -1,6 +1,8 @@
 ### Hi there 👋
 🌱 I’m currently learning in MPEI
 
+💻 I am currently working as an Android developer
+
 📫 How to reach me:
 * [telegram](https://t.me/Yuri_Zhuravlev)
 * zhuravlevyuri2000@gmail.com
@@ -9,20 +11,22 @@
 ---
 ### Projects:
 My Android Applications:
-* BoredApp, [source](https://github.com/YuriZhuravlev/BoredApp), [AppGallery page](https://appgallery.huawei.com/#/app/C103760887)
-* StockObserver, [source](https://github.com/YuriZhuravlev/StockObserverApp), [AppGallery page](https://appgallery.huawei.com/#/app/C103965313)
-* [Calculator on Jetpack Compose](https://github.com/YuriZhuravlev/Calculator)
+* BoredApp, [source](https://github.com/YuriZhuravlev/BoredApp), [AppGallery page](https://appgallery.huawei.com/#/app/C103760887) <i>Feb 2021</i>
+* StockObserver, [source](https://github.com/YuriZhuravlev/StockObserverApp), [AppGallery page](https://appgallery.huawei.com/#/app/C103965313) <i>May 2021</i>
+* [Calculator on Jetpack Compose](https://github.com/YuriZhuravlev/Calculator) <i>May 2021</i>
 
 Jetpack Compose for Desktop:
-* [ParserPascalJC](https://github.com/YuriZhuravlev/ParserPascalJC)
-* [AdminApp](https://github.com/YuriZhuravlev/desktop-admin-jetpack-compose)
-* [PostGraduate](https://github.com/YuriZhuravlev/course-work-db) (Course Work on Databases)
+* [ParserPascalJC](https://github.com/YuriZhuravlev/ParserPascalJC) <i>Apr 2021</i>
+* [AdminApp](https://github.com/YuriZhuravlev/desktop-admin-jetpack-compose) <i>Nov 2021</i>
+* [PostGraduate](https://github.com/YuriZhuravlev/course-work-db) (Course Work on Databases) <i>Dec 2021</i>
+* [FileSharing](https://github.com/YuriZhuravlev/FileSharing) <i>Mar 2022</i>
+* [ConfirmEmail](https://github.com/YuriZhuravlev/ConfirmEmail) <i>Apr 2022</i>
 
 Language server:
 * [fptl-language-server](https://gitlab.com/appmat/language-tool-lab/fptl/fptl-language-server)
 
 Ktor:
-* [Hide information in PDF](https://github.com/YuriZhuravlev/PDF-encoder) (Course Work on Data Protection)
+* [Hide information in PDF](https://github.com/YuriZhuravlev/PDF-encoder) (Course Work on Data Protection) <i>Dec 2021</i>
 <!--
 **YuriZhuravlev/YuriZhuravlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
