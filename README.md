@@ -1,7 +1,8 @@
 ### Hi there 👋
-🌱 I’m currently learning in MPEI
+👨‍💻 I am an Android developer
+🌱 I'm studying for master's degree at the MAI
+🎓 I am a bachelor in Applied Mathematics and Computer Science at the MPEI
 
-💻 I am currently working as an Android developer
 
 📫 How to reach me:
 * [telegram](https://t.me/Yuri_Zhuravlev)
