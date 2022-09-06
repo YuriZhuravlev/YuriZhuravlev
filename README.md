@@ -1,6 +1,8 @@
 ### Hi there 👋
 👨‍💻 I am an Android developer
+
 🌱 I'm studying for master's degree at the MAI
+
 🎓 I am a bachelor in Applied Mathematics and Computer Science at the MPEI
 
 
